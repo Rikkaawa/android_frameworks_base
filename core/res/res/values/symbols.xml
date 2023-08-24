@@ -4948,4 +4948,7 @@
   <java-symbol type="anim" name="activity_freeform_open_exit" />
   <java-symbol type="anim" name="activity_freeform_close_enter" />
   <java-symbol type="anim" name="activity_freeform_close_exit" />
+
+  <!-- Whether devices suports in-display fingerprint when screen is off -->
+  <java-symbol type="bool" name="config_supportScreenOffUdfps" />
 </resources>
