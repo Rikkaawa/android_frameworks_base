@@ -182,6 +182,7 @@ java_library_static {
         "kotlinx_coroutines_android",
         "kotlinx_coroutines",
         "vendor.aac.hardware.richtap.vibrator",
+        "vendor.xiaomi.hw.touchfeature-V1.0-java",
         "vendor.xiaomi.hardware.fingerprintextension-V1.0-java",
     ],
     javac_shard_size: 50,
